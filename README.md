@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pocho98
 - 👀 I’m interested in roguelike games and music (I'm the bassist of "Los Maples de Huevo", search it in spotify :D)
-- 🌱 I´m currently learning to program in Kotlin language, using Android Studio
-- 💞️ I’m looking to collaborate in any project that helps my training as a Kotlin programmer 
+- 🌱 I´m currently learning to program in Python language, Visual Studio Code
+- 💞️ I’m looking to collaborate in any project that helps my training as a Python programmer 
 - 📫 You can contact me in my e-mail: agustin.aller@gmail.com
 
 <!---
